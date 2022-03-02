@@ -1,7 +1,5 @@
 # wake-app-ux
 
-> Check the prototype [here](https://www.figma.com/proto/TIDaVWbOQ5jXH6io3rS39i/Appen?node-id=1%3A3&viewport=457%2C373%2C0.11368618905544281&scaling=scale-down&page-id=0%3A1)
-
 A prototype for an alarm-app in a UX and Design course
 This was a group project including me and one other person.
 
